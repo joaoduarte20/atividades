@@ -1,0 +1,30 @@
+.corpo {
+    margin: 0;
+}
+
+span {
+    color: yellow;
+}
+.card {
+    width: 500px;
+    height: fit-content;
+    background-color: aliceblue;
+    border-radius: 25px;
+    border:  solid 5px #022419;
+
+}
+.boxImage {
+    width:  100px;
+    height: 100px;
+    background-color: #022419;
+    border: 1px solid #022419;
+    border-radius: 50px;
+
+}
+.estiloH1 {
+    font-family: monospace, sans-serif;
+    font-size: 30px;
+}
+.estiloROSA{
+    color: rgba(140, 0, 255, 0.24);
+}
